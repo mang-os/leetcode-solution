@@ -1,5 +1,9 @@
-# LeetCode-Solution
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode practice
+
+C++ solutions and problem statements from my LeetCode practice. The topic index below is maintained by [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
+
+Solutions use LeetCode's judge interface; this repository is a practice archive rather than a standalone application.
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
