@@ -278,6 +278,7 @@ Solutions use LeetCode's judge interface; this repository is a practice archive 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mang-os/leetcode-solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/mang-os/LeetCode-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/mang-os/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/mang-os/leetcode-solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/mang-os/leetcode-solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -421,6 +422,7 @@ Solutions use LeetCode's judge interface; this repository is a practice archive 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/mang-os/LeetCode-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mang-os/leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0739-daily-temperatures](https://github.com/mang-os/leetcode-solution/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mang-os/leetcode-solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -554,6 +556,7 @@ Solutions use LeetCode's judge interface; this repository is a practice archive 
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/mang-os/LeetCode-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/mang-os/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
