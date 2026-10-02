@@ -139,6 +139,7 @@ Solutions use LeetCode's judge interface; this repository is a practice archive 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/mang-os/LeetCode-Solution/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/mang-os/leetcode-solution/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/mang-os/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/mang-os/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
@@ -383,6 +384,7 @@ Solutions use LeetCode's judge interface; this repository is a practice archive 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/mang-os/LeetCode-Solution/tree/main/0029-divide-two-integers/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/mang-os/leetcode-solution/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mang-os/leetcode-solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mang-os/leetcode-solution/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
