@@ -24,6 +24,7 @@ Solutions use LeetCode's judge interface; this repository is a practice archive 
 | [0055-jump-game](https://github.com/mang-os/leetcode-solution/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/mang-os/leetcode-solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mang-os/leetcode-solution/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mang-os/leetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mang-os/leetcode-solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mang-os/leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -109,6 +110,7 @@ Solutions use LeetCode's judge interface; this repository is a practice archive 
 | [0045-jump-game-ii](https://github.com/mang-os/leetcode-solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/mang-os/leetcode-solution/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/mang-os/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mang-os/leetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mang-os/leetcode-solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/mang-os/leetcode-solution/tree/main/0392-is-subsequence/) | Easy |
