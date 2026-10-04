@@ -38,6 +38,7 @@ Solutions use LeetCode's judge interface; this repository is a practice archive 
 | [0274-h-index](https://github.com/mang-os/leetcode-solution/tree/main/0274-h-index/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/mang-os/leetcode-solution/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0436-find-right-interval](https://github.com/mang-os/leetcode-solution/tree/main/0436-find-right-interval/) | Medium |
+| [0455-assign-cookies](https://github.com/mang-os/LeetCode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/mang-os/leetcode-solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0605-can-place-flowers](https://github.com/mang-os/leetcode-solution/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/mang-os/leetcode-solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -262,6 +263,7 @@ Solutions use LeetCode's judge interface; this repository is a practice archive 
 | [0169-majority-element](https://github.com/mang-os/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0274-h-index](https://github.com/mang-os/leetcode-solution/tree/main/0274-h-index/) | Medium |
 | [0436-find-right-interval](https://github.com/mang-os/leetcode-solution/tree/main/0436-find-right-interval/) | Medium |
+| [0455-assign-cookies](https://github.com/mang-os/LeetCode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/mang-os/leetcode-solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/mang-os/leetcode-solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mang-os/leetcode-solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -353,6 +355,7 @@ Solutions use LeetCode's judge interface; this repository is a practice archive 
 | [0234-palindrome-linked-list](https://github.com/mang-os/leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/mang-os/leetcode-solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/mang-os/leetcode-solution/tree/main/0392-is-subsequence/) | Easy |
+| [0455-assign-cookies](https://github.com/mang-os/LeetCode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/mang-os/leetcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mang-os/leetcode-solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/mang-os/leetcode-solution/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -372,6 +375,7 @@ Solutions use LeetCode's judge interface; this repository is a practice archive 
 | [0055-jump-game](https://github.com/mang-os/leetcode-solution/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mang-os/leetcode-solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/mang-os/leetcode-solution/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0455-assign-cookies](https://github.com/mang-os/LeetCode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/mang-os/leetcode-solution/tree/main/0605-can-place-flowers/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mang-os/leetcode-solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/mang-os/leetcode-solution/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -603,4 +607,8 @@ Solutions use LeetCode's judge interface; this repository is a practice archive 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mang-os/leetcode-solution/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/mang-os/LeetCode-Solution/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
