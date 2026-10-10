@@ -36,6 +36,7 @@ Solutions use LeetCode's judge interface; this repository is a practice archive 
 | [0238-product-of-array-except-self](https://github.com/mang-os/leetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/mang-os/leetcode-solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0274-h-index](https://github.com/mang-os/leetcode-solution/tree/main/0274-h-index/) | Medium |
+| [0322-coin-change](https://github.com/mang-os/LeetCode-Solution/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/mang-os/leetcode-solution/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0436-find-right-interval](https://github.com/mang-os/leetcode-solution/tree/main/0436-find-right-interval/) | Medium |
 | [0455-assign-cookies](https://github.com/mang-os/LeetCode-Solution/tree/main/0455-assign-cookies/) | Easy |
@@ -115,6 +116,7 @@ Solutions use LeetCode's judge interface; this repository is a practice archive 
 | [0119-pascals-triangle-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mang-os/leetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mang-os/leetcode-solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0322-coin-change](https://github.com/mang-os/LeetCode-Solution/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/mang-os/leetcode-solution/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/mang-os/leetcode-solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mang-os/leetcode-solution/tree/main/0877-stone-game/) | Medium |
@@ -449,6 +451,7 @@ Solutions use LeetCode's judge interface; this repository is a practice archive 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/mang-os/LeetCode-Solution/tree/main/0322-coin-change/) | Medium |
 | [0733-flood-fill](https://github.com/mang-os/LeetCode-Solution/tree/main/0733-flood-fill/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/mang-os/leetcode-solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/mang-os/leetcode-solution/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -615,4 +618,12 @@ Solutions use LeetCode's judge interface; this repository is a practice archive 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/mang-os/LeetCode-Solution/tree/main/0455-assign-cookies/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/mang-os/LeetCode-Solution/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/mang-os/LeetCode-Solution/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
